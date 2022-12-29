@@ -1,4 +1,4 @@
-# Adam's dmenu
+# Adam's dmenu for my Deltron computer
 
 Extra stuff added to vanilla dmenu:
 
